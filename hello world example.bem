@@ -1,0 +1,12 @@
+CONFIG{
+    > = "next"
+    < = "previous"
+    + = "+1"
+    - = "-1"
+    . = "print"
+    , = "input"
+    [ = "loop1"
+    ] = "loop2"
+}
+PROGRAM-
++1 +1 +1 +1 +1 +1 +1 +1 +1 +1 loop1 next +1 +1 +1 +1 +1 +1 +1 next +1 +1 +1 +1 +1 +1 +1 +1 +1 +1 next +1 +1 +1 next +1 previous previous previous previous -1 loop2 next +1 +1 print next +1 print +1 +1 +1 +1 +1 +1 +1 print print +1 +1 +1 print next +1 +1 print previous previous +1 +1 +1 +1 +1 +1 +1 +1 +1 +1 +1 +1 +1 +1 +1 print next print +1 +1 +1 print -1 -1 -1 -1 -1 -1 print -1 -1 -1 -1 -1 -1 -1 -1 print next +1 print next print
