@@ -1,0 +1,1 @@
+# Brainfuck-Easy-mode
