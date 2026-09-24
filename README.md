@@ -60,7 +60,6 @@ You need:
 Clone the repository:
 
     git clone https://github.com/YOUR_USERNAME/Brainfuck-Easy-Mode.git
-    cd Brainfuck-Easy-Mode
 
 Run BEM:
 
@@ -145,6 +144,9 @@ For example:
         [ = "lol"
         ] = "NOPE"
     }
+    PROGRAM-
+    waffle waffle waffle waffle waffle waffle waffle waffle waffle waffle lol banana waffle waffle waffle waffle waffle waffle waffle banana waffle waffle waffle  banana waffle waffle waffle waffle waffle waffle waffle waffle waffle waffle waffle potato potato potato cheese NOPE banana waffle waffle waffle pizza banana   waffle waffle waffle pizza banana banana cheese cheese pizza cheese cheese cheese pizza waffle waffle pizza cheese cheese cheese cheese pizza potato potato        waffle waffle pizza banana banana cheese cheese cheese pizza waffle waffle waffle waffle waffle waffle waffle pizza cheese cheese cheese cheese cheese cheese pizza waffle waffle waffle waffle waffle waffle waffle waffle waffle waffle waffle waffle pizza cheese cheese cheese cheese pizza potato potato waffle waffle pizza banana banana cheese cheese cheese cheese cheese pizza waffle pizza waffle pizza cheese cheese cheese cheese cheese cheese cheese cheese cheese cheese cheese cheese pizza pizza potato potato
+
 
 This is completely valid.
 
