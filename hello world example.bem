@@ -1,12 +1,12 @@
 CONFIG{
-    > = "next"
-    < = "previous"
-    + = "+1"
-    - = "-1"
-    . = "print"
-    , = "input"
-    [ = "loop1"
-    ] = "loop2"
-}
-PROGRAM-
-+1 +1 +1 +1 +1 +1 +1 +1 +1 +1 loop1 next +1 +1 +1 +1 +1 +1 +1 next +1 +1 +1 +1 +1 +1 +1 +1 +1 +1 next +1 +1 +1 next +1 previous previous previous previous -1 loop2 next +1 +1 print next +1 print +1 +1 +1 +1 +1 +1 +1 print print +1 +1 +1 print next +1 +1 print previous previous +1 +1 +1 +1 +1 +1 +1 +1 +1 +1 +1 +1 +1 +1 +1 print next print +1 +1 +1 print -1 -1 -1 -1 -1 -1 print -1 -1 -1 -1 -1 -1 -1 -1 print next +1 print next print
+        > = "banana"
+        < = "potato"
+        + = "waffle"
+        - = "cheese"
+        . = "pizza"
+        , = "keyboard"
+        [ = "lol"
+        ] = "NOPE"
+    }
+    PROGRAM-
+    waffle waffle waffle waffle waffle waffle waffle waffle waffle waffle lol banana waffle waffle waffle waffle waffle waffle waffle banana waffle waffle waffle  banana waffle waffle waffle waffle waffle waffle waffle waffle waffle waffle waffle potato potato potato cheese NOPE banana waffle waffle waffle pizza banana   waffle waffle waffle pizza banana banana cheese cheese pizza cheese cheese cheese pizza waffle waffle pizza cheese cheese cheese cheese pizza potato potato        waffle waffle pizza banana banana cheese cheese cheese pizza waffle waffle waffle waffle waffle waffle waffle pizza cheese cheese cheese cheese cheese cheese pizza waffle waffle waffle waffle waffle waffle waffle waffle waffle waffle waffle waffle pizza cheese cheese cheese cheese pizza potato potato waffle waffle pizza banana banana cheese cheese cheese cheese cheese pizza waffle pizza waffle pizza cheese cheese cheese cheese cheese cheese cheese cheese cheese cheese cheese cheese pizza pizza potato potato
